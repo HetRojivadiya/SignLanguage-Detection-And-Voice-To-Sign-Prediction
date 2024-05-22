@@ -25,8 +25,6 @@ for j in range(number_of_classes):
     done = False
     while True:
         ret, frame = cap.read()
-        # Flip the frame horizontally (mirror view)
-        # frame = cv2.flip(frame, 1)  # Flip along the y-axis
 
         cv2.putText(frame, 'Ready? Press "Q" ! :)', (100, 50), cv2.FONT_HERSHEY_SIMPLEX, 1.3, (0, 255, 0), 3,
                     cv2.LINE_AA)
