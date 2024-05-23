@@ -10,4 +10,4 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://drive.google.com/uc?export=view&id=1B6c91q8DASx8Nqbq79_SW8oYoMI1xNdf" alt="project-screenshot" width="500" height="500/">
+<img src="https://drive.google.com/uc?export=view&id=1B6c91q8DASx8Nqbq79_SW8oYoMI1xNdf" alt="project-screenshot" width="800" height="400/">
